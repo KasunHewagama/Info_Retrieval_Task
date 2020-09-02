@@ -8,6 +8,7 @@ Created on Tue Aug 18 11:30:54 2020
 """
 #Entering the values that should permutate
 Term = input("Enter the term to rotate : ") 
+#Printing permuterm coresponding to inserted term
 print("Term to be permutate",Term) 
 
 a = Term + '$'
