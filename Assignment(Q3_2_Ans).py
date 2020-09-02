@@ -6,6 +6,7 @@ Created on Mon Aug 17 04:30:54 2020
 @Sid: IT18165180
 @Batch: DS 2020
 """
+#defining the levenshtein distance func
 def Levenshtein_Distance(SOURCE, TERM):
     
     rows = len(SOURCE)+1
